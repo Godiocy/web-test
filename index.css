@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin-right: 0;
+    scroll-behavior: smooth;
+    
+    
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+    gap: 5px;
+    text-decoration: none;
+    padding: 0px;
+    
+    
+    
+}
+header{
+    position: sticky;
+    top: 0;  
+
+}
+
+a about us{
+    background-image: url(../MEDIA/ICT\ Training\ \(4\).jpg);
+    
+}
